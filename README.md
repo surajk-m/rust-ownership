@@ -1,3 +1,8 @@
+> Tests:
+
+```shell
+$ cargo test
+```
 
 ## Rust Ownership and Borrowing: A Comprehensive Guide
 
